@@ -1,1 +1,1 @@
-[)“f<?php exit; ?>a:1:{s:7:"content";a:0:{}}
+@.“f<?php exit; ?>a:1:{s:7:"content";a:3:{s:11:"medium_crop";b:1;s:10:"large_crop";b:1;s:26:"wc_pending_batch_processes";b:1;}}
